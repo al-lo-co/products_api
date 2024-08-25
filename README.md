@@ -1,4 +1,4 @@
-# My Ruby on Rails API
+# Products API
 
 This is an API built with Ruby on Rails 7.1.3 and Ruby 3.2.2. The database used is SQLite, and environment variables are managed with dotenv. The API is mounted on the `api::v1::` module and uses JWT for authentication. The server runs on port 3001.
 
