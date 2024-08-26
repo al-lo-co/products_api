@@ -53,8 +53,3 @@ module Api
     end
   end
 end
-
-# Needed
-#
-# - Error handling
-# - Specs
